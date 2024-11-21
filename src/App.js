@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import MouseTracker from './MouseTracker';
 import { Container, Row, Col } from 'react-bootstrap';
 
